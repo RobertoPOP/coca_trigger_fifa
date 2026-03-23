@@ -7,7 +7,7 @@
       <goals_home>0</goals_home>
       <goals_away>0</goals_away>
       <total_goals>0</total_goals>
-      <trigger_active>0</trigger_active>
+      <trigger_active>1</trigger_active>
       <status>En juego</status>
     </item>
   </channel>
